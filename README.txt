@@ -8,8 +8,8 @@ Use:
 Usage:
        GUI based: Download the tool Motif_result_to_fasta.exe from https://www.dropbox.com/s/5g7sayg4j5zjfbs/motif_resulttofastaGUI.zip?dl=0
 
-for Windows and run in your local computer. It does not require any dependencies installation. It will open window where you can browse file for result.txt and Run. It will pop-up window and generates the ëswissfastafile.fastaí file and mycsv.csv file in same directory where tool has been present. 
+for Windows and run in your local computer. It does not require any dependencies installation. It will open window where you can browse file for result.txt and Run. It will pop-up window and generates the ‚Äòswissfastafile.fasta‚Äô file and mycsv.csv file in same directory where tool has been present. 
        
-       Command line: Download the ìmotif_resulttofasta.pyî file and run in cmd ìpython motif_resulttofasta.py result.txtî. Before running make sure that both .py and result.txt files in same directory. If you renamed result.txt, type ë.py yourfilename.txt in cmd. To run this tool in cmd you need Python, Pandas module.
+       Command line: Download the ‚Äúmotif_resulttofasta.py‚Äù file and run in cmd ‚Äúpython motif_resulttofasta.py result.txt‚Äù. Before running make sure that both .py and result.txt files in same directory. If you renamed result.txt, type "python motif_resulttofasta.py yourfilename.txt" in cmd. To run this tool in cmd you need Python, Pandas module.
 
            
